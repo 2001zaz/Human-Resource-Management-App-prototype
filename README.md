@@ -15,7 +15,7 @@ How to Open the Design
 🌐 Optional: View Online
 You can also view the design interactively using the Figma link:  
 
-👉 [View the Figma Prototype]([https://www.figma.com/file/your-figma-link](https://www.figma.com/proto/12HfaNOOQ8tPVrR7PUMabU/Human-Resource-Management-App-wireframe?node-id=1-6&starting-point-node-id=1%3A6&show-proto-sidebar=1&t=OO8sMo9Bk5EcvFHx-1))
+👉 [View the Figma Prototype](https://www.figma.com/proto/12HfaNOOQ8tPVrR7PUMabU/Human-Resource-Management-App-wireframe?node-id=1-6&starting-point-node-id=1%3A6&show-proto-sidebar=1&t=OO8sMo9Bk5EcvFHx-1)
 
 ---
 
